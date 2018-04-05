@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-version = "Alpha Build 118"                                             ##
+version = "Alpha Build 118.01"                                          ##
 print("\nCaravan Calculator - by The Caravan -- " + version)            ##
                                                                         ##
 from datetime import *                                                  ##
